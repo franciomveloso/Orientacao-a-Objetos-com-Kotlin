@@ -1,4 +1,4 @@
-package one.digitalinnovation.digionebank
+package one.digitalinnovation.digionebank.testes
 
 import one.digitalinnovation.digionebank.Logavel
 
